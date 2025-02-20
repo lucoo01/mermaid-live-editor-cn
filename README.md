@@ -17,7 +17,8 @@
 
 ## 在线演示
 
-你可以在[这里](https://mermaid.live/)试用在线版本。
+你可以在[这里](https://runcode.w3cschool.cn/mermaid/)试用在线版本。
+或者试用[官方演示](https://mermaid.live/)
 
 ## Docker
 

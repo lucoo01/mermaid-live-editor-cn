@@ -1,0 +1,15 @@
+node_modules/
+coverage/
+.cache/
+build/
+yarn-error.log
+.npmrc
+.DS_Store
+/.svelte-kit
+/build
+/functions
+/snapshots.js
+/cypress/downloads
+/cypress/videos
+/cypress/screenshots
+.env.local
